@@ -1,0 +1,5 @@
+clean-text
+pytorch
+sentence-transformers
+fuzzywuzzy
+nltk
