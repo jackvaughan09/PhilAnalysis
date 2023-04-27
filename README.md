@@ -187,7 +187,7 @@ ___
 
 While these aren't the best scores, per se, we are still in the early stages of this project, and we have a lot of room to grow. As we collect more data and improve the pipeline to prevent data loss, we'll continue experimenting with these models.
 
-  I'm quite hesitant in asserting that the models are learning learning anything about the relationship between the word embeddings and the status of implementation yet. It could just be that they are randomly guessing a bit better than the baseline model.
+  I'm quite hesitant in asserting that the models are learning anything about the relationship between the word embeddings and the status of implementation yet. It could just be that they are randomly guessing a bit better than the baseline model.
 
   In other words, the baseline dummy regressor doesn't even have the ability to "guess" other classes, but the models do! It might be by virtue of access to guessing alternatives that the models outperform the baseline.
   
